@@ -1,10 +1,4 @@
 # Langchain-introduction
-Here's a simple introduction for LangChain that you can use for a GitHub README:
-
----
-
-# LangChain
-
 LangChain is a powerful framework designed to build applications around large language models (LLMs). It helps in creating robust, scalable, and production-ready applications by combining multiple components like language models, data sources, APIs, and various computation resources into a cohesive workflow.
 
 ## Key Features
